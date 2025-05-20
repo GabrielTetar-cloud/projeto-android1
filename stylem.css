@@ -1,0 +1,54 @@
+@charset "UTF-8";
+main{
+    background-color: aliceblue;
+}
+h1{
+    color: rgb(255, 255, 255);
+    font:10px Arial;
+    text-align: justify;
+
+}
+h2{
+    
+    color: white;
+    font:10px Arial;
+    text-align: justify;
+
+}
+nav{
+    
+    color: white;
+    font:10px Arial;
+    text-align: justify;
+
+}
+footer{
+    
+    color: white;
+    font:10px Arial;
+    text-align: justify;
+
+}
+ol{
+
+}
+div{
+
+}
+.titulo{
+    color: rgb(52, 183, 52);
+    background-color: rgb(8, 219, 72);
+    font: 10px  Arial, Helvetica, sans-serif;
+    border:10px groove;
+    
+
+    padding: 10px 10px auto;
+
+}
+.saibamais{
+    background-color: rgb(14, 199, 137);
+   font: 10px Arial,Sans-serif, black;
+}
+.saibamais>h1{
+    font:10px,Arial,Sans-serif,white;
+}
